@@ -1,5 +1,5 @@
-new poem Rainbow
-colors 
+new poem Rainbow with unicorne
+colors and unicorne
 green
 yellow 
 purple 
