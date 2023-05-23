@@ -1,1 +1,8 @@
-new poem
+new poem Rainbow
+colors 
+green
+yellow 
+purple 
+orrange
+pink
+these are the rainbow colour
